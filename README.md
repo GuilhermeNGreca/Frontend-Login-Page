@@ -46,3 +46,7 @@ And to run the project, simply execute:
 `yarn start` or `npm run start`
 
 This will make your project run on port [5173](http://localhost:5173).
+
+## Deploy
+
+Project link: https://b2bitfrontend-6a6kz5k7u-guilhermengrecas-projects.vercel.app/
